@@ -34,13 +34,13 @@ O barbeiro dorme quando não há clientes, e acorda quando um cliente chega. Se 
 1. Compile o código com suporte a pthread:
 
 ```bash
-gcc -pthread barbearia.c -o barbearia
+gcc -pthread main.c -o main
 ```
 
 2. Execute o programa:
 
 ```bash
-./barbearia
+./main
 ```
 
 3. Para interromper a execução (infinita), use:

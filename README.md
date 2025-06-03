@@ -2,6 +2,11 @@
 
 Este projeto implementa o clássico problema da Barbeiro Sonolento utilizando C, pthreads e semáforos POSIX. O objetivo é simular o funcionamento de uma barbearia com número limitado de cadeiras, controlando a concorrência entre múltiplas threads de clientes e um barbeiro.
 
+## 👥 Alunos
+
+- Guilherme Miranda de Araújo (2021019643)
+- Luiz Gustavo Dall'Agnol Cavalcante (2021000632)
+
 ## 🧠 Conceito
 
 - 1 barbeiro

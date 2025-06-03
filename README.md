@@ -1,4 +1,4 @@
-# 💈 Barbeiro Sonolento (Sleeping Barber Problem)
+# 💈 Barbeiro Sonolento
 
 Este projeto implementa o clássico problema da Barbeiro Sonolento utilizando C, pthreads e semáforos POSIX. O objetivo é simular o funcionamento de uma barbearia com número limitado de cadeiras, controlando a concorrência entre múltiplas threads de clientes e um barbeiro.
 
